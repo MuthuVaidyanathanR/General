@@ -1,2 +1,2 @@
 # Shreem
- Fundamendal of GIT and GITHUB
+ Fundamentals of GIT and GITHUB
